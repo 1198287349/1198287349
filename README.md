@@ -70,8 +70,7 @@ I am an Android reverse engineer with ten years of working experience. I am prof
 
 
 
-
-<img src = "https://github-readme-stats.vercel.app/api?username=1198287349" width = 460>
+<img src = "https://github-readme-stats.vercel.app/api?username=1198287349&theme=dark" width = 460>
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=1198287349&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
 
 
