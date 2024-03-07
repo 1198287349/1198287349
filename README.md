@@ -64,12 +64,16 @@ I am an Android reverse engineer with ten years of working experience. I am prof
 <img src="https://readme-components.vercel.app/api?component=logo&logo=qt&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=webassembly&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
+
+ 
 <p align="center">
 
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=1198287349&theme=dark)
+<img src = "https://github-readme-stats.vercel.app/api?username=1198287349" width = 460>
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=1198287349&layout=compact&hide_border=true&langs_count=10&theme=graywhite&include_all_commits=true&count_private=true" width = 340>
+
 
 
 <p align="center">
